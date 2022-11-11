@@ -1,0 +1,124 @@
+{
+	"serviceName": "CRUDServiceProvider.loadView",
+	"status": "1",
+	"pendingPrinting": "false",
+	"transactionId": "E8C7ADB7DD323B8B1E893F2FB588CA28",
+	"responseBody": {
+		"records": {
+			"record": [
+				{
+					"CODGRUPOPROD": {
+						"V": "100000000"
+					},
+					"DESCRGRUPOPROD": {
+						"V": "PRODUTOS DE REVENDA"
+					}
+				},
+				{
+					"CODGRUPOPROD": {
+						"V": "101000000"
+					},
+					"DESCRGRUPOPROD": {
+						"V": "PAPELARIA"
+					}
+				},
+				{
+					"CODGRUPOPROD": {
+						"V": "102000000"
+					},
+					"DESCRGRUPOPROD": {
+						"V": "FESTAS E DESCART�VEIS"
+					}
+				},
+				{
+					"CODGRUPOPROD": {
+						"V": "103000000"
+					},
+					"DESCRGRUPOPROD": {
+						"V": "AVIAMENTOS"
+					}
+				},
+				{
+					"CODGRUPOPROD": {
+						"V": "104000000"
+					},
+					"DESCRGRUPOPROD": {
+						"V": "BAZAR"
+					}
+				},
+				{
+					"CODGRUPOPROD": {
+						"V": "105000000"
+					},
+					"DESCRGRUPOPROD": {
+						"V": "BRINQUEDOS"
+					}
+				},
+				{
+					"CODGRUPOPROD": {
+						"V": "106000000"
+					},
+					"DESCRGRUPOPROD": {
+						"V": "CAMA, MESA, BANHO E LAVANDERIA"
+					}
+				},
+				{
+					"CODGRUPOPROD": {
+						"V": "107000000"
+					},
+					"DESCRGRUPOPROD": {
+						"V": "UTILIDADES DOM�STICAS"
+					}
+				},
+				{
+					"CODGRUPOPROD": {
+						"V": "108000000"
+					},
+					"DESCRGRUPOPROD": {
+						"V": "LIMPEZA"
+					}
+				},
+				{
+					"CODGRUPOPROD": {
+						"V": "109000000"
+					},
+					"DESCRGRUPOPROD": {
+						"V": "BELEZA E CUIDADOS PESSOAIS"
+					}
+				},
+				{
+					"CODGRUPOPROD": {
+						"V": "110000000"
+					},
+					"DESCRGRUPOPROD": {
+						"V": "DECORA��O E PRESENTES"
+					}
+				},
+				{
+					"CODGRUPOPROD": {
+						"V": "111000000"
+					},
+					"DESCRGRUPOPROD": {
+						"V": "INFORM�TICA"
+					}
+				},
+				{
+					"CODGRUPOPROD": {
+						"V": "112000000"
+					},
+					"DESCRGRUPOPROD": {
+						"V": "PET SHOP"
+					}
+				},
+				{
+					"CODGRUPOPROD": {
+						"V": "113000000"
+					},
+					"DESCRGRUPOPROD": {
+						"V": "FERRAGEM E FERRAMENTA"
+					}
+				}
+			]
+		}
+	}
+}

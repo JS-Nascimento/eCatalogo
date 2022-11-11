@@ -1,0 +1,3048 @@
+{
+	"serviceName": "CRUDServiceProvider.loadView",
+	"status": "1",
+	"pendingPrinting": "false",
+	"transactionId": "A9E49D4D52535B84D541F9CF7E6F58F2",
+	"responseBody": {
+		"records": {
+			"record": [
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101001000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "AGENDAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101002000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ALFINETES DE MAPA"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101003000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ALMOFADAS DE CARIMBO"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101004000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ANILINAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101005000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "APAGADORES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101006000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "APLICADORES DE FITA"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101007000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "APONTADORES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101008000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "AQUARELAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101009000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ARGILAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101010000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ARQUIVOS MORTO"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101011000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "AVENTAIS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101012000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "BLOCOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101013000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "BLOCOS AUTO ADESIVOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101014000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "BOBINAS DE PAPEL"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101015000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "BORRACHAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101016000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CADERNETAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101017000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CADERNOS BROCHURA"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101018000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CADERNOS UNIVERSITARIOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101019000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CADERNOS ESPIRAL 1/4 PAUTADO"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101020000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CADERNOS DE DESENHO"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101021000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CADERNOS CALIGRAFIA"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101022000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CADERNOS TECNICOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101023000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CADERNOS MEIA PAUTA"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101024000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CAIXAS ORGANIZADORAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101025000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CALCULADORAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101026000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CANETAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101027000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CARBONOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101028000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CARTOLINAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101029000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CAVALETES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101030000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CLIPES DE PAPEL"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101031000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "COLAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101032000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "COMPASSOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101033000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CONJUNTO DE LETRAS E N�MEROS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101034000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CORRETIVOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101035000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CORTI�AS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101036000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "DIVIS�RIAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101037000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "EL�STICOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101038000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "EVA - EMBORRACHADO"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101039000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ENVELOPES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101040000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ESPETOS DE PAPEL"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101041000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CAPAS E PROTETORES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101042000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ESTILETES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101043000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ESTOJOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101044000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ETIQUETAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101045000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "EXTRATORES DE GRAMPO"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101046000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "FICHARIOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101047000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "FITAS ADESIVAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101048000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "FITAS METALOIDE"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101049000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "GIZ"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101050000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "GLITTER"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101051000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "GRAFITES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101052000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "GRAMPEADORES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101053000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "GRAMPOS DE GRAMPEADOR"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101054000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "IMPRESSOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101055000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "KITS ESCOLARES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101056000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "LANTEJOULAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101057000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "LAPIS DE COR"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101058000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "L�PIS GRAFITE"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101059000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "LAPISEIRAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101060000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "MALETAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101061000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "MARCADORES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101062000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "MASSA DE MODELAR"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101063000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "MATERIAL DID�TICO"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101064000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "MATERIAL ARTESANATO"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101065000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "MOCHILAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101066000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ORGANIZADORES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101067000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "PAP�IS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101068000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "PASTAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101069000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "PENAS - ESCOLARES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101070000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "PERCEVEJOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101071000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "PERFURADORES DE PAPEL"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101072000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "PINC�IS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101073000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "PLASTICOS ADESIVOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101074000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "PL�STICOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101075000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "PRANCHETAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101076000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "QUADROS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101077000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "REFIL DE FICH�RIO"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101078000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "R�GUAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101079000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "SACOS DE PRESENTE"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101080000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "SUPORTE DE FITA ADESIVA"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101081000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "TELAS DE PINTURA"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101082000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "TESOURAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101083000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "TINTA ESCOLAR"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101084000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "TINTA ARTESANATO"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101085000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "TNT"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101086000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "TUBETES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "101000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "101087000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "UMIDIFICADOR DE DEDOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "102000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "102001000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "BAL�O DE G�S"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "102000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "102002000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ARTIGOS DE �POCA"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "102000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "102003000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "BANDEJAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "102000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "102004000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "BOMBA DE BAL�O"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "102000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "102005000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CANUDOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "102000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "102006000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "COPOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "102000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "102007000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "FAIXAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "102000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "102008000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "FITILHOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "102000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "102009000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "FORMINHAS DE PAPEL"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "102000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "102010000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "FUNDO PARA DOCES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "102000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "102011000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "LA�OS M�GICOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "102000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "102012000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "PALITOS E ESPETOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "102000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "102013000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "PAPEL DE BALA FRANJADO"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "102000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "102014000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "PL�STICOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "102000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "102015000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "PRATOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "102000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "102016000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "TALHERES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "102000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "102017000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "TIRA PLISSADA"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "102000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "102018000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "TOLHAS PL�STICA"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "102000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "102019000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "VELAS DE FESTA"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "103000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "103001000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "AGULHAS MANUAIS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "103000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "103002000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "AGULHAS DE M�QUINA"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "103000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "103003000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ALFINETES E COLCHETES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "103000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "103004000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "BARBANTES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "103000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "103005000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CARBONO DE RISCO"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "103000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "103006000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "EL�STICOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "103000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "103007000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "FITAS DE CETIM"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "103000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "103008000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "LASTEX"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "103000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "103009000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "L�"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "103000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "103010000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "LINHAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "103000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "103011000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "TESOURAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "103000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "103012000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "TINGECOR"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "103000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "103013000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "VELCROS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "103000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "103014000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ZIPER"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "103000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "103015000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "INSTRUMENTO DE MEDI��O"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "104000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "104001000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ASSENTO SANIT�RIO"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "104000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "104002000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "BATENTES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "104000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "104003000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ANEL DE VEDA��O PANELA PRESSAO"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "104000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "104004000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "COLAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "104000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "104005000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CORDAS MUSICAIS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "104000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "104006000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CORDAS DE NYLON"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "104000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "104007000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "EXTENSORES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "104000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "104008000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "FITAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "104000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "104009000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "GUARDA-CHUVAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "104000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "104010000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ISQUEIROS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "104000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "104011000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "L�MPADAS E LANTERNAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "104000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "104012000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "LINHAS DE NYLON"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "104000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "104013000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "LIXAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "104000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "104014000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "MANGUEIRAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "104000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "104015000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "MATA INSETOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "104000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "104016000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "PILHAS E BATERIAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "104000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "104017000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "TUBO EXTENSIVEL DE BOX"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "104000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "104018000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "VAR�ES DE CORTINA"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "104000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "104019000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CAMPAINHAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "104000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "104020000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "LUVAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "104000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "104021000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ANTENAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "104000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "104022000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ABRA�ADEIRAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "104000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "104023000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "EXTENS�ES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105001000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ACRILEX"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105002000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ALTIMAR"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105003000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "AMAR �..."
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105004000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "BLESSED"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105005000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "BOVOLIN"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105006000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "BRINQUEMIX"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105007000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "BS TOYS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105008000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ETITOYS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105009000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "JOGOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105010000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "JP BRINK"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105011000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "LE PLASTIC"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105012000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CIRANDA"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105013000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "RONDON"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105014000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ROYAL"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105015000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "TIMPLAST"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105016000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "TOYS E TOYS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105017000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "VIP TOYS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105018000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "WESTERN"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105019000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ZUCATOYS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105020000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ESPRINT"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105021000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "Z IMPORTS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105022000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "BANANA TOYS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105023000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "MILK"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105024000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "MARBEL"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105025000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "FOXTOYS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105026000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "FEST BUBBLE"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105027000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "XERFAN"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105028000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "MIELLE"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105029000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "PL�STICOS IDEAL"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "105000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "105030000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "GGB BRINQUEDOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "106000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "106001000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "AVENTAL"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "106000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "106002000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "BLACK-OUT"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "106000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "106003000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CAPA DE BOTIJ�O"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "106000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "106004000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CAPA DE CADEIRA E ALMOFADA"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "106000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "106005000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CAPA DE COLCH�O"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "106000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "106006000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CAPA DE MAQUINA DE LAVAR"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "106000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "106007000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CAPA DE TRAVESSEIRO"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "106000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "106008000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CAPACHOS E TAPETES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "106000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "106009000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "COBRE ALIMENTOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "106000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "106010000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CORTINA DE BOX"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "106000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "106011000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CORTINA DE PIA"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "106000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "106012000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "FILTRO DE DEPURADOR"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "106000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "106013000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "FRONHAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "106000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "106014000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "FORRO DE TABUA DE PASSAR"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "106000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "106015000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "LEN�OL"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "106000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "106016000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ORGANIZADOR"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "106000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "106017000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "PANOS DE COPA"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "106000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "106018000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "PUXA SACO"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "106000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "106019000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "SACO DE LAVAR"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "106000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "106020000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "TOALHAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "106000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "106021000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "TOALHAS DE PL�STICO"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "106000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "106022000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "VEDA PORTA"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "106000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "106023000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "TELAS MOSQUITEIRO"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107001000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ACESS�RIOS DE CONFEITARIA"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107002000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ACESS�RIOS DE COZINHA"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107005000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ACESS�RIOS DE BANHEIRO"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107006000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ASSADEIRAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107007000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "BACIAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107008000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "BALDES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107009000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "BOWLS E TIGELAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107010000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CABIDEIROS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107011000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CAIXAS ORGANIZADORAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107012000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CANECAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107013000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CESTOS E LIXEIRAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107014000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "MESA E BAR"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107015000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ESCORREDORES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107016000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ESPELHOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107017000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "FERVEDORES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107018000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "FRIGIDEIRAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107019000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "GARRAFAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107020000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "GARRAFAS T�RMICAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107021000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "JARDINAGEM"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107022000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "JARRAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107023000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ORGANIZADORES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107024000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "PANELAS E CA�AROLAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107025000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "POTES PL�STICOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107026000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "PROCESSADORES DE ALIMENTOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107027000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "PULVERIZADORES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107028000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "PRATOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107029000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "PRENDEDORES DE ROUPAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107030000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "SUQUEIRAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107031000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "T�BUAS DE CORTE"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107032000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "T�BUA DE PASSAR ROUPA"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107033000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "TALHERES E FAQUEIROS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107034000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "UTENS�LIOS DE ALUM�NIO"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107035000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "UTENS�LIOS DE INOX"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107036000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "UTENS�LIOS DE MADEIRA"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107037000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "UTENS�LIOS DE PL�STICO"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107038000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "UTENS�LIOS DE SILICONE"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107039000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "UTENS�LIOS DE VIDRO"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107040000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "VARAL DE ROUPAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107041000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "UTENS�LIOS DE METAL"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "107000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "107042000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "COPA COZINHA"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "108000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "108001000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ANTI-MOFO"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "108000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "108002000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "DESENTUPIDORES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "108000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "108003000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ESCOVAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "108000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "108004000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ESPANADORES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "108000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "108005000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ESPONJAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "108000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "108006000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "MOP"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "108000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "108007000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "PANOS DE LIMPEZA"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "108000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "108008000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "P�S"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "108000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "108009000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "RODOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "108000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "108010000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "SACOS DE LIXO"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "108000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "108011000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "VASSOURAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "108000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "108012000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "MATERIAIS DE LIMPEZA"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "108000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "108013000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "UTENSILIOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "108000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "108014000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "PAPEIS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "109000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "109001000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ACESS�RIOS DE BARBA"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "109000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "109002000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ACESS�RIOS DE CABELO E PELO"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "109000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "109003000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ACESS�RIOS DE UNHA"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "109000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "109004000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ESCOVAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "109000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "109005000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "MEIAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "109000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "109006000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "TOUCAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "109000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "109007000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "MAQUIAGENS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "110000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "110001000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "LUMIN�RIAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "110000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "110002000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "LUPAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "110000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "110003000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "PORTA RETRATOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "110000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "110004000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "QUADROS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "110000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "110005000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "REL�GIOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "110000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "110006000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CHAVEIROS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "111000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "111001000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "FONES DE OUVIDO"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "111000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "111002000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "MOUSES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "111000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "111003000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CABOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "111000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "111004000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "CARREGADORES"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "111000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "111005000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "TECLADOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "111000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "111006000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "SUPORTES DE APARELHOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "111000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "111007000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "ACESS�RIOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "112000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "112001000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "HIGIENE"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "112000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "112002000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "COMEDOUROS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "112000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "112003000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "GUIAS E COLEIRAS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "112000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "112004000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "BRINQUEDOS E ACESS�RIOS"
+					}
+				},
+				{
+					"CODGRUPAI": {
+						"$": "113000000"
+					},
+					"CODGRUPOPROD": {
+						"$": "113001000"
+					},
+					"DESCRGRUPOPROD": {
+						"$": "FILTROS E EXTENS�ES"
+					}
+				}
+			]
+		}
+	}
+}
